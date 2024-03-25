@@ -1,5 +1,5 @@
 {
-  "name": "workflows-templates",
+  "name": "workflow-telebirr",
   "version": "1.0.0",
   "scripts": {
     "test": "jest",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/okta/workflows-templates.git"
+    "url": "git+ssh://git@github.com/telebirr-playstore/Workflow-telebirr.git"
   },
   "devDependencies": {
     "@types/jest": "^27.4.1",
